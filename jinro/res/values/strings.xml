@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jinro</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="option_spiner">
+        <item >1min</item>
+        <item >2min</item>
+        <item >3min</item>
+        <item >4min</item>
+        <item >5min</item>
+        <item >8min</item>
+        <item >10min</item>
+    </string-array>
+
+</resources>
